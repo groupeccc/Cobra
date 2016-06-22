@@ -2,7 +2,7 @@
 Cobra is a font designed by groupe CCC (Alice Gavin & Valentin Bigel) assisted by Nicolas Garner for artist Ève Chabanon's identity http://evechabanon.fr
 
 ##Specimen
-![cobra](https://github.com/groupeccc/Cobra/blob/master/documentation/cobra.svg)
+![cobra](https://rawgit.com/groupeccc/Cobra/master/documentation/cobra.svg)
 
 ## License
 
